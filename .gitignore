@@ -1,0 +1,14 @@
+.idea/
+.venv/
+__pycache__/
+base.db
+
+data/config/__pycache__/
+
+handlers/__pycache__/
+handlers/admin/__pycache__/
+handlers/admin/makups/__pycache__/
+handlers/user/__pycache__/
+handlers/user/makups/__pycache__/
+
+utils/__pycache__/
