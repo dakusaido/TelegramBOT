@@ -1,3 +1,3 @@
 # TelegramBOT
 
-Just run $start.py using Python >=3.6
+Just run # start.py using Python >=3.6
